@@ -7,7 +7,7 @@
     <property name="jar.dir"     value="${build.dir}/jar"/>
 
     <property name="main-class"  value="oata.HelloWorld"/>
-
+echo "this is test line added"
 
 
     <target name="clean">
